@@ -8,7 +8,7 @@ let Navbar = () => {
 let Content = () => {
   return (
     <>
-    <h1>contentttt</h1>
+    <h1>contenttztt</h1>
     </>
   )
 }
